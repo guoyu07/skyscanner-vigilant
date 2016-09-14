@@ -1,5 +1,7 @@
-Skyscanner-vigilant (WIP)
+Skyscanner Vigilant (WIP)
 =========================
+
+[![Trivago](http://business.skyscanner.net/Content/images/logo/ssf-white-color.png)](http://www.skyscanner.net)
 
 ## Synopsis
 
@@ -14,7 +16,7 @@ Skyscanner-vigilant (WIP)
 ## Tests
 
 ## Contributors
-    Jean Silva -> @jeancsil
+    Jean Silva (@jeancsil)
 
 ## License
 MIT
